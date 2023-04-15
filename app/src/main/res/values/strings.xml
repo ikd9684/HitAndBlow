@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hit&amp;Blow</string>
+    <string name="deduce">推理</string>
+    <string name="restart">再開</string>
+    <string name="leader">・・・</string>
+    <string name="hit">Hit</string>
+    <string name="blow">Blow</string>
+</resources>
